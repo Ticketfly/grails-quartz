@@ -1,3 +1,26 @@
+# Ticketfly EDIT:
+
+This repo is cloned from https://github.com/grails-plugins/grails-quartz
+and branched at the last grails 2.x.x compitible commit `2e7e720`
+
+
+## The last grails 2.x.x compitible commit:
+`2e7e720 generated docs shouldn't have been committed`
+is published internally to ticketfly artifactory as `quartz-plugin:1.1.0-tfly`
+
+## The previously used version (reverse engineered):
+`quartz-plugin:1.0.2-tfly`
+was published (by Fraser long time ago) from commits between
+`96f09e4411b86b1b9152f5b5b59d0e8b97a10b2b` and`d91feebc39c66523e5211ac432d005b96ac04785`
+
+
+`quartz-plugin:1.0.3-tfly` exists in artifactory, but it does not seem to be used anywhere.
+
+Ref: https://github.com/Ticketfly/USR/pull/101
+
+----
+
+
 # Grails Quartz Plugin 
 ![](http://stillmaintained.com/nebolsin/grails-quartz.png)[![Build Status](https://travis-ci.org/grails-plugins/grails-quartz.svg)](https://travis-ci.org/grails-plugins/grails-quartz)
 

@@ -54,7 +54,7 @@ import org.springframework.util.Assert
  */
 class QuartzGrailsPlugin {
 
-    def version = "1.0.3-SNAPSHOT"
+    def version = "1.1.0.tfly"
     def grailsVersion = "2.0 > *"
     def author = "Sergey Nebolsin, Graeme Rocher, Ryan Vanderwerf, Vitalii Samolovskikh"
     def authorEmail = "rvanderwerf@gmail.com"
